@@ -1,0 +1,6 @@
+richdem
+numpy
+rasterio
+matplotlib.pyplot
+scipy
+skimage
