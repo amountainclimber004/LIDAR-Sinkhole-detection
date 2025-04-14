@@ -11,7 +11,7 @@ output_file = 'Lidarsampleoutput.tif'
 
 # Detection & filtering parameters
 min_sinkhole_depth = 0.5   # Minimum depression depth (DEM units) to consider a sinkhole
-min_area = 20              # Only consider regions with at least 20 pixels
+min_area = 45              # Only consider regions with at least 45 pixels
 min_circularity = 0.5      # Only consider regions with circularity >= 0.5
 
 # Colors for gradient: shallow (edge) is yellow-orange, deep (center) is black.
